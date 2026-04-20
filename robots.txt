@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-354nlb.gcpinboxproo.com/sitemap.xml
